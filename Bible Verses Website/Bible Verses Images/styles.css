@@ -1,0 +1,59 @@
+body {
+    background-color:#E6FFFD;
+}
+div{
+    width:35%;
+    margin-left:25%;
+    margin-top: 100px;
+}
+.Image{
+    width:100%;
+    border:5px solid aqua;
+    
+} 
+h3{
+    font-weight: 2rem;
+    color: #B799FF;
+}
+.Work{
+    color: #ACBCFF;
+    text-align: justify;
+    font-style:oblique;
+    font-size: 20px;
+}
+.Wor{
+    color:#E5BEEC;
+    font-size: 20px;
+    font-style:inherit;
+}
+.Pic{
+    width:100%;
+    border:5px solid aqua;
+}
+
+.Crucify{
+  color:  #9E6F21;
+  font-style: oblique;
+  font-size:20px;
+}
+.Verse{
+    color:#8294C4;
+    font-size: 20px;
+    font-style:inherit;
+}
+.Picture{
+    width:100%;
+    border:5px solid aqua;
+}
+
+.parents{
+    color:#8B1874; 
+    font-style: oblique;
+    font-size: 20px;
+}
+.Script{
+    font-style: oblique;
+    color: #FC4F00;
+    font-size: 20px;
+
+}
